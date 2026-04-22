@@ -1,4 +1,4 @@
-# XC8-LCD_Library
+# LCDisplay_Library
 Library for control LDC display and option for show big digits segments
 
 # Post
