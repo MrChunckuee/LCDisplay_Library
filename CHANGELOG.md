@@ -25,7 +25,7 @@ Author:	Full Name
 ***
 
 ## 22/09/2025 _v0.0.3_
-Author:	Full Name
+Author:	Pedro Sánchez (@mrchunckuee_electronics)
 ### Notes
 - Test on PIC18F25K22 only 3 fonts: "tron_bold", "square_four" and "blocks".
 ### Added
