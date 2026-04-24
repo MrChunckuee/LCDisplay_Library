@@ -44,14 +44,18 @@ Author:	Pedro Sánchez (@mrchunckuee_electronics)
 - Implementation of the "LCD_createChar()" function to load a custom character into CGRAM.
 ### Changed
 - Changing routines in the "write" and "command" functions.
+
 <br>
 <br>
+
 ***
 
 ## 16/02/2017 _v0.0.1_
 Author:	Pedro Sánchez (@mrchunckuee_electronics)
 ### Notes
 - Test of the library (on PIC18F25K22) based on the option published by Manolis Agkopian on https://github.com/magkopian/pic-xc8-lcd-library.       
+
 <br>
 <br>
+
 ***
