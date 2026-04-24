@@ -1,11 +1,11 @@
 /*******************************************************************************
  *
- *                       LCD Library
+ *                       LCDisplay Library
  *
  *******************************************************************************
  *                  MIT License
  * 
- * Copyright (c) 2016 Pedro Sánchez Ramírez
+ * Copyright (c) 2016 Pedro SÃ¡nchez RamÃ­rez
  * 
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -24,25 +24,6 @@
  * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
- *******************************************************************************
- * 
- *                   ... C H A N G E L O G ...
- *******************************************************************************
- * Rev.     v1.0.0
- * Author:  Pedro Sanchez Ramirez       
- * Blog:    https://mrchunckuee.blogspot.com/   
- * Date         Comment
- * 16/02/2017   - Test of the library (on PIC18F25K22) based on the option published by 
- *                Manolis Agkopian on https://github.com/magkopian/pic-xc8-lcd-library.
- *******************************************************************************
- * Rev.     v1.0.1
- * Author:  Pedro Sanchez Ramirez       
- * Blog:    https://mrchunckuee.blogspot.com/
- * Date         Comment
- * 20/09/2025   - Changing routines in the "write" and "command" functions.
- *              - Implementation of the "LCD_createChar()" function to load a 
- *                custom character into CGRAM.
- *              - CGRAM read and write tests with the PIC18F25K22 (successful tests).
  ********************************************************************************/
 
 #include <stdbool.h>
