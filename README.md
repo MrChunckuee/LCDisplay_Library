@@ -1,5 +1,5 @@
-# LCDisplay_Library
-Library for control LDC display and option for show big digits segments
+# LCDisplay Library
+Library for control LCD16x2 or LCD20x4 display and option for show big digits segments
 
 # Post
  - PIC18F25K22 & XC8: Libreria para LCD - Creacion de caracteres personalizados en la CGRAM https://mrchunckuee.blogspot.com/2025/10/pic18f25k22-xc8-libreria-para-lcd.html
