@@ -76,7 +76,7 @@ extern "C" {
     } while (false)
 
     // Initializes the LCD (See LCD struct)
-    bool LCD_Init(LCD_t display);
+    bool LCD_Initialize(LCD_t display);
 
     // Prints a character on the LCD
     void LCD_putc(char a);
