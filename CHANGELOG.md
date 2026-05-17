@@ -24,6 +24,18 @@ Author:	Full Name
 
 ***
 
+## 17/05/2026 _v0.0.4_
+Author:	Pedro Sanchez (@mrchunckuee_electronics)
+### Added
+- Added macros for bit manipulation SET_BIT and CLR_BIT.
+### Changed
+- LCD_Init was changed to LCD_Initialize to standardize all libraries.
+
+<br>
+<br>
+
+***
+
 ## 22/09/2025 _v0.0.3_
 Author:	Pedro Sánchez (@mrchunckuee_electronics)
 ### Notes
