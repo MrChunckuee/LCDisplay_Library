@@ -58,8 +58,4 @@ void main(void) {
 
 ## Documentation & Tutorial
 For a detailed implementation explanation and step-by-step guide, you can review the following examples:
-* [PIC18F25K22 & XC8: Librería para pantalla LCD 16x2 - Test basico](https://mrchunckuee.blogspot.com/2017/02/mplabx-y-xc8-005.html)
-* [PIC18F25K22 & XC8: Libreria para LCD - Creacion de caracteres personalizados en la CGRAM](https://mrchunckuee.blogspot.com/2025/10/pic18f25k22-xc8-libreria-para-lcd.html)
-* [PIC18F25K22 & XC8: Libreria para LCD - Implementacion de funciones para mostrar numeros grandes](https://mrchunckuee.blogspot.com/2025/10/pic18f25k22-xc8-libreria-para-lcd_01385353221.html)
-* [PIC18F25K83 & XC8: ADC modo basico- Leer voltaje y mostrarlo en una LCD16x2 con números grandes](https://mrchunckuee.blogspot.com/2025/12/pic18f25k83-xc8-adc-modo-basico-leer-de.html)
-* [PIC18F25K22 & XC8: Uso del sensor de temperatura y humedad relativa DHT22/AM2302 - Mostrar datos en una LCD16x2](https://mrchunckuee.blogspot.com/2026/03/pic18f25k22-xc8-uso-del-sensor-de.html)
+* https://mrchunckuee.blogspot.com/2026/05/LCDisplay-Library.html
