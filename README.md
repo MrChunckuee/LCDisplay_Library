@@ -29,12 +29,24 @@ This example shows how to initialize the display and print formatted text.
 #include <xc.h>
 #include "lcd_display.h"
 
+// LCD struct
+LCD_t LCD = {
+    .TRIS = &TRISB,
+    .PORT = &PORTB,
+    .RS   = 0,  // RB0 for RS
+    .EN   = 1,  // RB1 for EN
+    .D4   = 4,  // RB2 for D4
+    .D5   = 5,  // RB3 for D5
+    .D6   = 6,  // RB4 for D6
+    .D7   = 7   // RB5 for D7
+};
+
 void main(void) {
     // Initialize system ports
     SYSTEM_Initialize();
     
-    // Initialize LCD (4-bit mode default)
-    LCD_Init();
+    // Initialize LCD (4-bit mode)
+    LCD_Initialize(LCD);
     
     // Clear screen and say hello
     LCD_Clear();
